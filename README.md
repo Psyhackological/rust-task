@@ -11,13 +11,13 @@
 2. Create the database.
 
     ```
-    $ sqlx db create
+    sqlx db create
     ```
 
 3. Run sql migrations
 
     ```
-    $ sqlx migrate run
+    sqlx migrate run
     ```
 
 ## Usage
